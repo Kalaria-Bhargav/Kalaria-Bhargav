@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Bhargav! 👋
+# Hi, I'm Bhargav Kalaria! 👋
 
 ## 📖 About Me
 - 🎓 Final year CSE student at Nirma University
